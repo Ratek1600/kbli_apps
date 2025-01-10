@@ -1,0 +1,7 @@
+{
+  "name": "kbli_apps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
